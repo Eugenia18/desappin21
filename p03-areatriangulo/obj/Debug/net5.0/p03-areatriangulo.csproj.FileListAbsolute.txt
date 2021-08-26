@@ -1,0 +1,16 @@
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.csproj.AssemblyReference.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.AssemblyInfoInputs.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.AssemblyInfo.cs
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.csproj.CoreCompileInputs.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.exe
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.deps.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.runtimeconfig.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.runtimeconfig.dev.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\bin\Debug\net5.0\ref\p03-areatriangulo.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.pdb
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\obj\Debug\net5.0\ref\p03-areatriangulo.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.pdb
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.genruntimeconfig.cache
