@@ -1,0 +1,16 @@
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.exe
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.deps.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.runtimeconfig.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.runtimeconfig.dev.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\bin\Debug\net5.0\ref\p02-areacirculo.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.pdb
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.csproj.AssemblyReference.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.AssemblyInfoInputs.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.AssemblyInfo.cs
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.csproj.CoreCompileInputs.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\obj\Debug\net5.0\ref\p02-areacirculo.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.pdb
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.genruntimeconfig.cache
