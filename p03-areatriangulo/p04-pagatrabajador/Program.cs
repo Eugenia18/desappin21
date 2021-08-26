@@ -12,9 +12,9 @@ namespace p04_pagatrabajador
             const float TASA = 0.3f;
 
             Console.WriteLine("Calculando la paga de un trabajador");
-            Console.WriteLine("Dame tu nombre ?"); nombre = Console.ReadLine();
-            Console.WriteLine("horas trabajadas ?"); horas = int.Parse(Console.ReadLine());
-            Console.WriteLine("Pago por hora  ?"); pago =float.Parse(Console.ReadLine());
+            Console.Write("Dame tu nombre ?"); nombre = Console.ReadLine();
+            Console.Write("horas trabajadas ?"); horas = int.Parse(Console.ReadLine());
+            Console.Write("Pago por hora  ?"); pago =float.Parse(Console.ReadLine());
 
             pagobruto = horas * pago;
             impuesto = pagobruto * TASA;
