@@ -1,0 +1,5 @@
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\obj\Debug\net5.0\p004-pagatrabajador.csproj.AssemblyReference.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\obj\Debug\net5.0\p004-pagatrabajador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\obj\Debug\net5.0\p004-pagatrabajador.AssemblyInfoInputs.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\obj\Debug\net5.0\p004-pagatrabajador.AssemblyInfo.cs
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\obj\Debug\net5.0\p004-pagatrabajador.csproj.CoreCompileInputs.cache
