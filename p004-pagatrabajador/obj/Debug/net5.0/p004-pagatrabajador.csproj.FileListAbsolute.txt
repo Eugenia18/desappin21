@@ -3,3 +3,14 @@ C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\obj\Debug\net5
 C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\obj\Debug\net5.0\p004-pagatrabajador.AssemblyInfoInputs.cache
 C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\obj\Debug\net5.0\p004-pagatrabajador.AssemblyInfo.cs
 C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\obj\Debug\net5.0\p004-pagatrabajador.csproj.CoreCompileInputs.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\bin\Debug\net5.0\p004-pagatrabajador.exe
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\bin\Debug\net5.0\p004-pagatrabajador.deps.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\bin\Debug\net5.0\p004-pagatrabajador.runtimeconfig.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\bin\Debug\net5.0\p004-pagatrabajador.runtimeconfig.dev.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\bin\Debug\net5.0\p004-pagatrabajador.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\bin\Debug\net5.0\ref\p004-pagatrabajador.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\bin\Debug\net5.0\p004-pagatrabajador.pdb
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\obj\Debug\net5.0\p004-pagatrabajador.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\obj\Debug\net5.0\ref\p004-pagatrabajador.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\obj\Debug\net5.0\p004-pagatrabajador.pdb
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p004-pagatrabajador\obj\Debug\net5.0\p004-pagatrabajador.genruntimeconfig.cache

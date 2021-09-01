@@ -22,7 +22,7 @@ namespace p04_pagatrabajador
 
             salida = $"El trabajador {nombre}, trabajo {horas} horas, con un pago de {pago} \n" +
                      $"Pago bruto: {pagobruto}\n Impuesto: {impuesto}\n Pago neto: {pagoneto}";
-            Comparison.WriteLine(salida);
+            Console.WriteLine(salida);
 
         }
     }

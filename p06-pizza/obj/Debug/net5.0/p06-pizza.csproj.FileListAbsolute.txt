@@ -1,0 +1,16 @@
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\obj\Debug\net5.0\p06-pizza.csproj.AssemblyReference.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\obj\Debug\net5.0\p06-pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\obj\Debug\net5.0\p06-pizza.AssemblyInfoInputs.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\obj\Debug\net5.0\p06-pizza.AssemblyInfo.cs
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\obj\Debug\net5.0\p06-pizza.csproj.CoreCompileInputs.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\bin\Debug\net5.0\p06-pizza.exe
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\bin\Debug\net5.0\p06-pizza.deps.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\bin\Debug\net5.0\p06-pizza.runtimeconfig.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\bin\Debug\net5.0\p06-pizza.runtimeconfig.dev.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\bin\Debug\net5.0\p06-pizza.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\bin\Debug\net5.0\ref\p06-pizza.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\bin\Debug\net5.0\p06-pizza.pdb
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\obj\Debug\net5.0\p06-pizza.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\obj\Debug\net5.0\ref\p06-pizza.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\obj\Debug\net5.0\p06-pizza.pdb
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p06-pizza\obj\Debug\net5.0\p06-pizza.genruntimeconfig.cache
