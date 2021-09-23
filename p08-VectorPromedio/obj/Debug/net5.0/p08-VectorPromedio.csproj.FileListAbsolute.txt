@@ -1,0 +1,16 @@
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\obj\Debug\net5.0\p08-VectorPromedio.csproj.AssemblyReference.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\obj\Debug\net5.0\p08-VectorPromedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\obj\Debug\net5.0\p08-VectorPromedio.AssemblyInfoInputs.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\obj\Debug\net5.0\p08-VectorPromedio.AssemblyInfo.cs
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\obj\Debug\net5.0\p08-VectorPromedio.csproj.CoreCompileInputs.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\bin\Debug\net5.0\p08-VectorPromedio.exe
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\bin\Debug\net5.0\p08-VectorPromedio.deps.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\bin\Debug\net5.0\p08-VectorPromedio.runtimeconfig.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\bin\Debug\net5.0\p08-VectorPromedio.runtimeconfig.dev.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\bin\Debug\net5.0\p08-VectorPromedio.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\bin\Debug\net5.0\ref\p08-VectorPromedio.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\bin\Debug\net5.0\p08-VectorPromedio.pdb
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\obj\Debug\net5.0\p08-VectorPromedio.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\obj\Debug\net5.0\ref\p08-VectorPromedio.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\obj\Debug\net5.0\p08-VectorPromedio.pdb
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p08-VectorPromedio\obj\Debug\net5.0\p08-VectorPromedio.genruntimeconfig.cache
