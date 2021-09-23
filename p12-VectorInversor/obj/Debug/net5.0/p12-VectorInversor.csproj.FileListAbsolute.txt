@@ -1,0 +1,16 @@
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\bin\Debug\net5.0\p12-VectorInversor.exe
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\bin\Debug\net5.0\p12-VectorInversor.deps.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\bin\Debug\net5.0\p12-VectorInversor.runtimeconfig.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\bin\Debug\net5.0\p12-VectorInversor.runtimeconfig.dev.json
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\bin\Debug\net5.0\p12-VectorInversor.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\bin\Debug\net5.0\ref\p12-VectorInversor.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\bin\Debug\net5.0\p12-VectorInversor.pdb
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\obj\Debug\net5.0\p12-VectorInversor.csproj.AssemblyReference.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\obj\Debug\net5.0\p12-VectorInversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\obj\Debug\net5.0\p12-VectorInversor.AssemblyInfoInputs.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\obj\Debug\net5.0\p12-VectorInversor.AssemblyInfo.cs
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\obj\Debug\net5.0\p12-VectorInversor.csproj.CoreCompileInputs.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\obj\Debug\net5.0\p12-VectorInversor.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\obj\Debug\net5.0\ref\p12-VectorInversor.dll
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\obj\Debug\net5.0\p12-VectorInversor.pdb
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p12-VectorInversor\obj\Debug\net5.0\p12-VectorInversor.genruntimeconfig.cache
