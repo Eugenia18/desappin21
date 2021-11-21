@@ -1,0 +1,5 @@
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p15-ControlBancario\obj\Debug\net5.0\p15-ControlBancario.csproj.AssemblyReference.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p15-ControlBancario\obj\Debug\net5.0\p15-ControlBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p15-ControlBancario\obj\Debug\net5.0\p15-ControlBancario.AssemblyInfoInputs.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p15-ControlBancario\obj\Debug\net5.0\p15-ControlBancario.AssemblyInfo.cs
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p15-ControlBancario\obj\Debug\net5.0\p15-ControlBancario.csproj.CoreCompileInputs.cache

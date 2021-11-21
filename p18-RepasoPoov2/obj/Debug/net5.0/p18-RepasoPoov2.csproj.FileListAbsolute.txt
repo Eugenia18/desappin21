@@ -1,0 +1,5 @@
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p18-RepasoPoov2\obj\Debug\net5.0\p18-RepasoPoov2.csproj.AssemblyReference.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p18-RepasoPoov2\obj\Debug\net5.0\p18-RepasoPoov2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p18-RepasoPoov2\obj\Debug\net5.0\p18-RepasoPoov2.AssemblyInfoInputs.cache
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p18-RepasoPoov2\obj\Debug\net5.0\p18-RepasoPoov2.AssemblyInfo.cs
+C:\Users\ecm19\OneDrive\Documentos\Desarrollo\p18-RepasoPoov2\obj\Debug\net5.0\p18-RepasoPoov2.csproj.CoreCompileInputs.cache
