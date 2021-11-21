@@ -3,29 +3,29 @@ using System.IO;
 using System.Xml.Serialization;
 using Newtonsoft.Json;
 
-namespace p18_repasopoov2
+namespace p17_repasopoo
 {
     public static class Utils {
-        public static void GrabarXml(string arch, Escuela escuela) {
+        public static void GrabarXml(string arch, Red red) {
             FileStream f = File.Open(arch, FileMode.Create);
-            XmlSerializer xml = new XmlSerializer(typeof(Escuela));
+            XmlSerializer xml = new XmlSerializer(typeof(Red));
             xml.Serialize(f,red);
         }
-        public static void LeerXml(string arch, ref Escuela escuela) {
+        public static void LeerXml(string arch, ref Red red) {
             FileStream f = File.Open(arch, FileMode.Open);
-            XmlSerializer xml = new XmlSerializer(typeof(Escuela));
-            escuela = (Escuela) xml.Deserialize(f);
+            XmlSerializer xml = new XmlSerializer(typeof(Red));
+            red = (Red) xml.Deserialize(f);
         }
-        public static void GrabarJson(string arch, Escuela escuela) {
+        public static void GrabarJson(string arch, Red red) {
              StreamWriter f = File.CreateText(arch);
              JsonSerializer json = new JsonSerializer();
-             json.Serialize(f, escuela);
+             json.Serialize(f, red);
              f.Close();
         }
-        public static void LeerJson(string arch, ref Escuela escuela) {
+        public static void LeerJson(string arch, ref Red red) {
            StreamReader f = File.OpenText(arch);
            string txt = f.ReadToEnd();
-           escuela = JsonConvert.DeserializeObject<Escuela>(txt);
+           red = JsonConvert.DeserializeObject<Red>(txt);
         }
     }
 }
